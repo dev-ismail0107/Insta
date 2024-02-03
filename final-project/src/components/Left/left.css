@@ -1,0 +1,21 @@
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.--leftside{
+    margin-top: 4rem;
+    margin-left: 2rem;
+}
+
+.--instagram {
+    width: 5rem;
+    font-family: "Pacifico", cursive;
+}
+
+.--all-left-first {
+    display: flex;
+    gap: 10px;
+    margin-top:40px ;
+}
